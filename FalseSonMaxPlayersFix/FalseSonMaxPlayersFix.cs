@@ -9,7 +9,7 @@ using UnityEngine.Networking;
 namespace FalseSonMaxPlayersFix
 {
     [BepInDependency("com.bepis.r2api")]
-    [BepInPlugin("dev.wildbook.toomanyfriends", "TooManyFriends", "1.1.0")]
+    [BepInPlugin("dev.bioniclepta.falsesonmaxplayersfix", "FalseSonMaxPlayersFix", "1.1.0")]
     //[R2APISubmoduleDependency(nameof(CommandHelper))]
     [NetworkCompatibility(CompatibilityLevel.NoNeedForSync)]
     public class FalseSonMaxPlayersFix : BaseUnityPlugin
