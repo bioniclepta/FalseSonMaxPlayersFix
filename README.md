@@ -1,1 +1,0 @@
-Takes the original TooManyFriends mod by wildbook and updates it to SotS. Namely fixes the false son softlocking with more than 4 players since gearbox decided to hardcode an array with 4 positions, then proceed to reference a foreach player.
